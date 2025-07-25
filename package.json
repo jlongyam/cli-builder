@@ -19,7 +19,6 @@
   "type": "module",
   "scripts": {
     "build": "rollup -c",
-    "clean": "rm -rf ./dist/*",
     "test": "node test/test.js --version=1.0.1 name=test"
   },
   "dependencies": {
