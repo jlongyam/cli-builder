@@ -1,5 +1,5 @@
 {
-  "name": "jsshell",
+  "name": "@jlongyam/cli-builder",
   "version": "1.0.0",
   "description": "CLI library",
   "keywords": [
