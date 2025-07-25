@@ -1,9 +1,10 @@
 {
   "name": "@jlongyam/cli-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI library",
   "keywords": [
-    "cli", "builder"
+    "cli",
+    "builder"
   ],
   "homepage": "https://github.com/jlongyam/cli-builder#readme",
   "bugs": {
