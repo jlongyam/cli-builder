@@ -18,8 +18,6 @@ console.log(args)
 __Shell__
 
 ```shell
-node . --help
-# or
 node index.mjs --help
 ```
 
